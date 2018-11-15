@@ -1,0 +1,19 @@
+body {
+    font-family: Verdana, sans-serif; 
+    font-size: 105%; 
+    font-weight: light;
+    line-height: 1.5;
+}
+
+b {
+    text-decoration: underline;
+    color: #D2691E;
+}
+
+h2 {
+   color: #A52A2A; 
+}
+
+ul {
+    list-style-type: circle;
+}
