@@ -1,0 +1,18 @@
+body {
+    font-family: arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+span {
+    color: #fd58b2;
+}
+
+h1 {
+    margin-top: 60px;
+}
+
+.image_title {
+    font-size: 16px;
+    line-height: 22px;
+}
