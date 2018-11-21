@@ -1,0 +1,31 @@
+body {
+	text-align: center;
+}
+h1 {
+	display: inline-block;
+	width: 506px;
+	height: 28px;
+	color: #333333;
+	font-family: Tahoma;
+	font-size: 24px;
+	font-weight: 700;
+	margin-top: 70px;
+	margin-bottom: 42px;
+}
+
+.image_title {
+	margin: 0 auto;
+	width: 122px;
+	height: 34px;
+	color: #333333;
+	font-family: Tahoma;
+	font-size: 16px;
+	font-weight: 700;
+
+}
+
+.image {
+	margin-bottom: 15px;
+	min-height: 77px;
+	margin-top: 40px;
+} 
